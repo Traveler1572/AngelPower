@@ -1,30 +1,32 @@
-# 株式会社エンジェルパワー
+# Webサイト制作仕様
 
-## ナビゲーションメニュー
+## 株式会社エンジェルパワー
+
+### ナビゲーションメニュー
 
 - HOME
 - COMPANY
 - SERVICE
 - CONTACT
 
-## HOME
+### HOME
 
 - エンジェルパワーの歩み
 - 企業理念
 
-## COMPANY
+### COMPANY
 
 - 会社概要
 
-## SERVICE
+### SERVICE
 
 - サービス紹介
 
-## CONTACT
+### CONTACT
 
 - お問い合わせ
 
-## RECRUIT
+### RECRUIT
 
 - 採用情報
 - 採用に関するお問い合わせ
